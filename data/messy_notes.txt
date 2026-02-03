@@ -1,0 +1,6 @@
+2023 was confusing.
+Started ML, didn’t get it at first.
+Someone mentioned FAISS once.
+Later I built some kind of search thing.
+Not sure when exactly.
+

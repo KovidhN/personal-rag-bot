@@ -1,0 +1,5 @@
+AI stuff everywhere.
+Tried NLP preprocessing.
+Tokenization, embeddings, vectors.
+At some point this became a chatbot.
+Offline models seem cool.

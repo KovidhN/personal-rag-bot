@@ -1,0 +1,9 @@
+I am a BTech student specializing in Artificial Intelligence and Data Science.
+
+I have worked on multiple machine learning projects involving data preprocessing, model training, and evaluation.
+
+My NLP-related work includes text preprocessing, vector embeddings, and building a Retrieval-Augmented Generation (RAG) system using FAISS and a local language model.
+
+I have hands-on experience with Python, data analytics, and building end-to-end ML pipelines.
+
+I have also held leadership roles, including serving as deputy head boy, where I managed teams and coordinated activities.
