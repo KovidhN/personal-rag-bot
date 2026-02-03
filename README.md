@@ -42,13 +42,21 @@ This project focuses on **accuracy, document grounding, and clean retrieval**, a
 
 personal-rag-bot/
 ├── app.py # Streamlit application
+
 ├── requirements.txt # Python dependencies
+
 ├── .gitignore # Ignored files (venv, cache, binaries)
+
 ├── rag/
+
 │ ├── ingest.py # PDF ingestion & normalization
+
 │ ├── retriever.py # FAISS retrieval logic
+
 │ ├── generator.py # Answer generation & confidence logic
+
 │ ├── intent_router.py # Query intent detection
+
 │ └── init.py
 
 
@@ -125,6 +133,7 @@ Deployment on cloud platforms
 
 ⭐ If you found this useful
 Feel free to ⭐ star the repository or fork it for experimentation.
+
 
 
 
