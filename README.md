@@ -122,7 +122,9 @@ Readable, maintainable code
 
 🧑‍💻 Author
 Kovidh Nougain
+
 B.Tech – AI & Data Science
+
 Focus areas: NLP, RAG systems, ML pipelines
 
 📌 Future Improvements
@@ -134,6 +136,7 @@ Deployment on cloud platforms
 
 ⭐ If you found this useful
 Feel free to ⭐ star the repository or fork it for experimentation.
+
 
 
 
