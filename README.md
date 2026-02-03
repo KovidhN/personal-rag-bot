@@ -81,6 +81,7 @@ pip install -r requirements.txt
 4️⃣ Run the Application
 streamlit run app.py
 The app will open automatically in your browser.
+```
 
 🧪 How to Use
 Upload a PDF document from the sidebar
@@ -133,6 +134,7 @@ Deployment on cloud platforms
 
 ⭐ If you found this useful
 Feel free to ⭐ star the repository or fork it for experimentation.
+
 
 
 
